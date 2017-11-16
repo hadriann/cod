@@ -4,6 +4,7 @@
 
 typedef struct {
     int ENTER;
+    int SPACE;
     int CTRLD;
     int CTRLL;
     int CTRLQ;
